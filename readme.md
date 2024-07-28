@@ -14,7 +14,7 @@ Using Python, I designed a script to automatically **Extract**, **Transform**, a
 2. **Transform**: Aggregate and clean the data to ensure consistency and accuracy.
 3. **Load**: Insert the transformed data into a consolidated Excel file and an SQL database.
 
-![Alt text](https://github.com/PrinceIgweze/Finance-ETL-Pipeline-/blob/main/Flowchart.png?raw=true)
+![Alt text](https://github.com/PrinceIgweze/Finance-ETL-Pipeline-/blob/main/Flowchart.png?raw=true)  
 *Figure 1: ETL Process Diagram illustrating the data flow and processing stages.*
 
 ## How to Run the Package
