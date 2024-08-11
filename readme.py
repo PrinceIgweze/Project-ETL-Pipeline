@@ -8,6 +8,7 @@
 # into a single excel sheet and into an SQL database for further analysis
 
 
+
 #HOW TO RUN PACKAGE
 #Download the ETL folder and place it in your desired location
 #Go to the parameters folder and open the parameter.xlsx file. Change the values to fit you local computer and database description
