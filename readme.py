@@ -1,4 +1,4 @@
-# Automated ETL Project - Prince Felix Igweze
+# Automated ETL Project - Prince Felix Igweze 
 
 # Company XYZ Services Limited keeps a catalogue of their financial statements in Excel sheets
 # every month. Their financial statements contains annual dollar months paid by month  for various sub-categories across 
