@@ -5,7 +5,7 @@
 Company XYZ Services Limited keeps a catalogue of their financial statements in Excel sheets every month. These financial statements contain annual dollar amounts paid by month for various sub-categories across 13 provinces in Canada.
 
 ## Methodology 
-
+ 
 Using Python, I designed a script to automatically **Extract**, **Transform**, and **Load** (ETL) the dollar amounts for each sub-category across all provinces. The data is aggregated into a single Excel sheet and loaded into an SQL database for further analysis.
 
 ### Key Steps:
